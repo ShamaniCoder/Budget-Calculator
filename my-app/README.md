@@ -1,3 +1,5 @@
+# App Demo
+ <img src="./public/App-Animation.gif" style="max-width: 100%;">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
